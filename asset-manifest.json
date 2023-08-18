@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adimle/static/css/main.d0d69840.css",
+    "main.js": "/adimle/static/js/main.346a6159.js",
+    "static/js/496.3a2b595e.chunk.js": "/adimle/static/js/496.3a2b595e.chunk.js",
+    "index.html": "/adimle/index.html",
+    "main.d0d69840.css.map": "/adimle/static/css/main.d0d69840.css.map",
+    "main.346a6159.js.map": "/adimle/static/js/main.346a6159.js.map",
+    "496.3a2b595e.chunk.js.map": "/adimle/static/js/496.3a2b595e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0d69840.css",
+    "static/js/main.346a6159.js"
+  ]
+}
