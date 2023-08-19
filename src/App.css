@@ -1,3 +1,6 @@
 html.dark {
-  background-color: rgb(15, 23, 42);
+  /* background-color: rgb(15, 23, 42); */
+  background: url('https://identity.adimo.co/Static/background.svg') no-repeat;
+  background-size: cover;
+  background-position-y: center;
 }

@@ -9,6 +9,10 @@ module.exports = {
         xxshort: { raw: '(max-height: 490px)' },
       },
     },
+    fontFamily: {
+      'nunito': ['"Nunito"', 'sans-serif'],
+      'opensans': ['"Open Sans"', 'sans-serif']
+    }
   },
   plugins: [require('@tailwindcss/forms')],
 }
